@@ -1,12 +1,12 @@
-# MAX MUSTERMANN
+# VALERII DUNDUKOV
 
 ## PROFIL
 
-IT-Administrator mit Spezialisierung auf Linux- und Windows-Server-Administration sowie Netzwerkinfrastruktur.
-Durch meine aktuelle Vollzeit-Weiterbildung (TechCampus Berlin) verfüge ich über fundierte Praxiskenntnisse in
-Windows Server / Linux-Administration, Firewall-Konfiguration (OPNsense/pfSense) und IT-Sicherheit (DSGVO).
-Eigenverantwortlich, lösungsorientiert, Scrum-erfahren.
-**Verfügbar ab: 01.10.2026**
+Angehender IT-Administrator mit Spezialisierung auf Cloud-Infrastrukturen (MS Azure) und Prozessautomatisierung.
+Durch meine aktuelle Vollzeit-Weiterbildung (Zukunftsmotor) verfüge ich über fundierte Praxiskenntnisse in
+Windows Server / Linux-Administration, Netzwerktechnik und IT-Sicherheit (DSGVO).
+Ich zeichne mich durch eine lösungsorientierte Arbeitsweise nach agilen Methoden (Scrum) aus.
+**Verfügbar ab: 01.09.2026**
 
 ---
 
@@ -14,25 +14,25 @@ Eigenverantwortlich, lösungsorientiert, Scrum-erfahren.
 
 | | |
 |---|---|
-| **Telefon** | +49 123 4567890 |
-| **E-Mail** | max.mustermann@email.de |
-| **Adresse** | Musterstraße 1, 10115 Berlin |
-| **LinkedIn** | linkedin.com/in/maxmustermann |
-| **GitHub** | github.com/maxmustermann |
+| **Telefon** | 01521 6451354 |
+| **E-Mail** | dundukov.valerii@gmail.com |
+| **Adresse** | Kastanienstr. 21, 63517 Rodenbach |
+| **LinkedIn** | linkedin.com/in/legioneroff |
+| **GitHub** | github.com/chicagoist |
 
 ---
 
 ## KENNTNISSE
 
-**Cloud & Server:** MS Azure (AZ-900), Linux (Debian/Ubuntu), Windows Server 2019/2022, Active Directory, Hyper-V
+**Cloud & Server:** MS Azure, AWS, Linux (Debian/Ubuntu), Windows Server 2019/2022, Active Directory, Hyper-V
 
-**Netzwerke & Sicherheit:** TCP/IP, DNS, DHCP, VLAN, VPN, OPNsense/pfSense, Cisco CCST Networking, DSGVO
-
-**Scripting & Code:** Python, Bash, PowerShell, Java (Spring Boot), JavaScript/HTML/CSS (Grundlagen)
+**Scripting & Code:** Python, Bash, PowerShell, Java (Spring Boot), Perl, JavaScript, HTML5/CSS
 
 **Datenbanken:** MySQL, PostgreSQL, MongoDB
 
-**DevOps & Tools:** Git, Docker, Ansible, Nginx, Apache (LAMP), Scrum/Agile
+**DevOps & Tools:** Git, Docker, Nginx, Apache (LAMP), Scrum/Agile
+
+**IT-Sicherheit:** DSGVO, MTCS, Cisco CCST Networking
 
 ---
 
@@ -40,37 +40,60 @@ Eigenverantwortlich, lösungsorientiert, Scrum-erfahren.
 
 | Datum | Zertifikat | Aussteller |
 |---|---|---|
-| 06/2025 | Microsoft Azure Fundamentals (AZ-900) | Microsoft |
-| 03/2026 | Cisco CCST Networking | Cisco NetAcad |
-| 09/2024 | LPIC-1: Linux Administrator | Linux Professional Institute |
+| 07/2024 | Backend Java Developer (DEKRA-geprüft) | AIT TR GmbH |
+| 03/2023 | Google Technical Support Fundamentals | Google |
+| 01/2026 | Cisco CCST Networking | Cisco NetAcad |
+| 07/2026 *(erwartet)* | Microsoft Azure Fundamentals (AZ-900) | Microsoft |
 
 ---
 
 ## BERUFSERFAHRUNG
 
-### 10/2025 – heute | Weiterbildung IT-Administrator | TechCampus Berlin (Vollzeit)
-- Administration von Windows Server 2019/2022 und Linux (Debian/Ubuntu) in virtuellen Lab-Umgebungen
+### 09/2025 – heute | Weiterbildung IT-Administrator | Zukunftsmotor (Vollzeit)
+- Administration von Windows Server (2019/2022) und Linux (Debian/Ubuntu)
 - Konfiguration von Netzwerkdiensten: DNS, DHCP, VPN und Active Directory
-- Cloud-Management mit Microsoft Azure; Virtualisierung mit Hyper-V
-- Firewall-Administration: OPNsense und pfSense — Regelwerk-Erstellung und Troubleshooting
+- Cloud-Management mit Microsoft Azure; Virtualisierung (Hyper-V)
 - Automatisierung mit Bash, PowerShell und Python
-- Agile Praxisprojekte nach Scrum-Methodik
+- Praxisprojekte nach agilen Methoden (Scrum)
 
-### 04/2024 – 09/2025 | IT-Support Techniker (1st/2nd Level) | Mittelstand IT-Service GmbH, Berlin
-- Bearbeitung von 30+ Support-Tickets/Woche — Störungsanalyse und -behebung
-- Windows-Client-Betreuung (200+ Arbeitsplätze) und Server-Support
-- Netzwerk-Troubleshooting (TCP/IP, VLAN, VPN)
-- Dokumentation von Lösungswegen und Wissensdatenbank-Artikeln
+### 05/2025 – 07/2025 | Zugbegleiter | Deutsche Bahn AG (Region Frankfurt)
+- Fahrausweisprüfung und Überwachung der Beförderungsbedingungen (EBO)
+- Erste-Hilfe-Maßnahmen und Sicherheitsdienste
+- Kundenbetreuung und Auskunft zu Tarifen/Verkehrsbedingungen
 
-### 01/2022 – 03/2024 | Junior Systemadministrator | WebDev Solutions AG, Potsdam
-- Linux-Server-Administration (Debian/Ubuntu) — Webserver, Datenbanken
-- Apache/Nginx-Konfiguration und LAMP-Stack-Betreuung
-- MySQL/MariaDB-Datenbankverwaltung und Backup-Strategien
-- Git-basierte Deployments und Docker-Containerisierung
+### 08/2024 – 02/2025 | Berufliche Orientierung in Deutschland | aQa GmbH, Hanau
+- Programm „3W – 3 Wege zum Job" — Erweiterung beruflicher Kompetenzen
 
-### 08/2019 – 12/2021 | Fachinformatiker Systemintegration (Ausbildung) | NetSys GmbH, Berlin
-- Grundlagen: Windows Server, Linux, Netzwerktechnik, IT-Support
-- Abschlussprojekt: Automatisierte Server-Bereitstellung mit Ansible
+### 05/2024 – 01/2025 | Java Backend-Entwickler (Trainee) | LeafGrow GmbH, Deutschland
+- Entwicklung von Backend-Komponenten mit Spring Boot
+- Unit-Tests mit JUnit; Versionsverwaltung und Deployments mit Git
+- Erstellung von Dockerfiles für containerisierte Umgebungen
+
+### 11/2023 – 07/2024 | Weiterbildung Java Software Developer | AIT TR GmbH
+- Java, Spring Tech (Java PRO), JavaScript, HTML5, CSS
+- DBMS: PostgreSQL, MongoDB; Linux (Basic); Git (PRO)
+- QA Basic (manuelles Testen); DEKRA-Abschlussprüfung
+
+### 11/2022 – 06/2023 | Krankheitsbedingte Auszeit mit vollständiger Rehabilitation
+
+### 11/2021 – 10/2022 | Perl-Entwickler (IT) | GeeksForLess Inc., Ukraine
+- Scripting für Backend-Abrechnungssysteme
+- Integration in bestehende IT-Systeme
+
+### 01/2010 – 10/2021 | Freelancer, Web-Systemadministrator
+- **Powerbay (Ukraine):** Content-/Systemadministration (Onlineshop), Nginx
+- **GreenLight LTD. (Ukraine):** LAMP-Stack (Apache), Internetpräsenz, Integration
+- **VALEKS Internet Store (Ukraine):** Webserver-Verwaltung, Systemadministration
+
+---
+
+## BERUFLICHE STATIONEN IN TECHNIK UND SERVICE
+
+| Zeitraum | Position | Unternehmen |
+|---|---|---|
+| 05/2002 – 08/2009 | Industriemechaniker | KrAZ, Ukraine |
+| 04/1998 – 05/2001 | Wehrdienst | Technische/logistische Einsatzbereiche |
+| 07/1993 – 01/1998 | Mechanischer Monteur | KrAZ, Ukraine |
 
 ---
 
@@ -78,8 +101,8 @@ Eigenverantwortlich, lösungsorientiert, Scrum-erfahren.
 
 | Zeitraum | Abschluss | Institution |
 |---|---|---|
-| 08/2019 – 06/2022 | Fachinformatiker Systemintegration (IHK) | NetSys GmbH / OSZ Berlin |
-| 09/2008 – 07/2016 | Abitur | Gymnasium Berlin |
+| 09/1990 – 05/1992 | Industriemechaniker (Abschluss) | Technische Schule, Ukraine |
+| 09/1980 – 05/1990 | Realschule | Ukraine |
 
 ---
 
@@ -87,11 +110,15 @@ Eigenverantwortlich, lösungsorientiert, Scrum-erfahren.
 
 | Sprache | Niveau |
 |---|---|
-| Deutsch | Muttersprache (C2) |
-| Englisch | Verhandlungssicher (C1) |
-| Russisch | Grundkenntnisse (A2) |
+| Ukrainisch | Muttersprache |
+| Russisch | Muttersprache |
+| Deutsch | B2 |
+| Englisch | A2 |
+
+## FÜHRERSCHEIN
+
+ | Führerschein Klasse A, B |
 
 ---
 
-> ⚠️ **BEISPIEL-LEBENSLAUF!** Alle Daten sind fiktiv (Max Mustermann). Vor der Nutzung durch deine echten Daten ersetzen.
-> Format-Regeln: Single-Column Markdown, Daten als MM/YYYY, keine Tabellen in Kernabschnitten (ATS-Parsing).
+*(Stand: Rodenbach, 08.07.2026)*

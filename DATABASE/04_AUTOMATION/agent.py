@@ -172,6 +172,7 @@ def generate_pdf(md_path: Path, pdf_path: Path) -> bool:
         pass
 
     # Попытка 2: wkhtmltopdf direkt (MD→HTML→PDF)
+    html_path = None
     try:
         html_path = pdf_path.with_suffix('.html')
         html_content = md_to_html(md_path.read_text(encoding='utf-8'))
@@ -185,7 +186,6 @@ def generate_pdf(md_path: Path, pdf_path: Path) -> bool:
              str(html_path), str(pdf_path)],
             capture_output=True, timeout=60
         )
-        html_path.unlink(missing_ok=True)
         if result.returncode == 0:
             print(f"  [PDF] Erstellt mit wkhtmltopdf: {pdf_path.name}")
             return True
@@ -195,6 +195,9 @@ def generate_pdf(md_path: Path, pdf_path: Path) -> bool:
         pass
     except Exception as e:
         print(f"  [WARNUNG] wkhtmltopdf direkt fehlgeschlagen: {e}")
+    finally:
+        if html_path is not None:
+            html_path.unlink(missing_ok=True)
 
     # Попытка 3: weasyprint
     try:

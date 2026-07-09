@@ -1,29 +1,33 @@
-# KANDIDATENPROFIL — BEISPIEL (MIT DEINEN DATEN ERSETZEN!)
+# KANDIDATENPROFIL — VALERII DUNDUKOV
 # Maschinenlesbare Stammdaten für den HeadHunter-Agenten
-# ⚠️ Dies ist ein BEISPIEL-Profil. Vor der Nutzung durch deine echten Daten ersetzen!
+# Quelle: lebenslauf.md + CV_Valerii.odt  |  Stand: 08.07.2026
+# DIESE DATEI NICHT MANUELL BEARBEITEN — Änderungen nur hier pflegen
 
 ---
 
 ## PERSÖNLICHE DATEN
 
 ```yaml
-name:            "Max Mustermann"
-adresse:         "Musterstraße 1, 10115 Berlin"
-telefon:         "+49 123 4567890"
-email:           "max.mustermann@email.de"
-linkedin:        "https://linkedin.com/in/maxmustermann"
-github:          "https://github.com/maxmustermann"
-verfuegbar_ab:   "01.10.2026"
-aufenthalt:      "EU-Bürger, Arbeitserlaubnis DE"
+name:            "Valerii Dundukov"
+geburtsjahr:     1959          # Aus Werdegang (KrAZ 1993-1998) erschlossen
+adresse:         "Kastanienstr. 21, 63517 Rodenbach"
+telefon:         "+49 1521 6451354"
+email:           "dundukov.valerii@gmail.com"
+linkedin:        "https://linkedin.com/in/legioneroff"
+github:          "https://github.com/chicagoist"
+verfuegbar_ab:   "01.09.2026"
+aufenthalt:      "Geregelt (§24 AufenthG → Fachkraftstatus angestrebt)"
 ```
 
 ---
 
-## PROFIL (Kurzfassung — 3 Sätze)
+## PROFIL (Kurzfassung — Master-Version)
 
-IT-Administrator mit Spezialisierung auf Linux- und Windows-Server-Administration sowie Netzwerkinfrastruktur.
-Fundierte Praxis in Firewall-Konfiguration (OPNsense/pfSense), Active Directory und IT-Support (1st/2nd Level).
-Lösungsorientiert, eigenverantwortlich. Verfügbar ab 01.10.2026.
+Angehender IT-Administrator mit Spezialisierung auf Cloud-Infrastrukturen (MS Azure) und Prozessautomatisierung.
+Durch aktuelle Vollzeit-Weiterbildung (Zukunftsmotor, seit 09/2025) fundierte Praxiskenntnisse in
+Windows Server / Linux Administration, Netzwerktechnik, IT-Sicherheit (DSGVO) und Cloud-Management.
+Ergänzt durch frühere Erfahrung als Java Backend-Entwickler (Trainee, LeafGrow GmbH) und
+über 10 Jahre Freelance-Web-Systemadministration. Lösungsorientiert, eigenverantwortlich, Scrum-erfahren.
 
 ---
 
@@ -31,7 +35,8 @@ Lösungsorientiert, eigenverantwortlich. Verfügbar ab 01.10.2026.
 
 ```yaml
 cloud_und_server:
-  - MS Azure (AZ-900)
+  - MS Azure (AZ-900, erwartet 07/2026)
+  - AWS (Grundlagen)
   - Linux (Debian, Ubuntu) — Administration
   - Windows Server 2019/2022 — Administration
   - Active Directory / Gruppenrichtlinien
@@ -40,9 +45,11 @@ cloud_und_server:
 
 programmierung_und_scripting:
   - Python (Scripting, Automatisierung)
-  - Bash (Shell-Scripting, Cron-Jobs)
+  - Bash (Shell-Scripting, Automatisierung)
   - PowerShell (Windows-Automatisierung)
-  - Java + Spring Boot (Backend — Grundkenntnisse)
+  - Java (Spring Boot, Backend — Trainee-Level)
+  - Perl (Backend-Scripting, professionell)
+  - JavaScript, HTML5, CSS (Grundlagen)
 
 datenbanken:
   - MySQL / MariaDB
@@ -50,23 +57,25 @@ datenbanken:
   - MongoDB
 
 devops_und_tools:
-  - Git — Versionsverwaltung, CI/CD
+  - Git (PRO — Versionsverwaltung, Deployments)
   - Docker (Container, Dockerfiles)
-  - Ansible (Grundkenntnisse)
+  - Spring Boot (Backend-Framework)
   - Nginx, Apache (LAMP-Stack)
   - Scrum / Agile
 
 it_sicherheit:
-  - DSGVO — Grundlagen IT-Sicherheit
-  - Firewall-Administration (OPNsense, pfSense)
+  - DSGVO / MTCS — Grundlagen IT-Sicherheit
   - Cisco CCST Networking (2026)
+  - CCNA Routing & Switching (Grundlagen, 2018)
+  - Cyber Security Basic (2022)
 
 soft_skills:
-  - Eigenverantwortliches Arbeiten
-  - Kundenkommunikation (Deutsch C1)
-  - Stressresistenz
-  - Strukturierte, fehlerorientierte Arbeitsweise
+  - Eigenverantwortliches Arbeiten (10+ Jahre Freelance)
+  - Kundenkommunikation (Deutsch B2, Bahn-Erfahrung)
+  - Präzision / Qualitätskontrolle (KrAZ Industriemontage)
+  - Stressresistenz (Zugbegleiter DB, Militär)
   - Problemlösungskompetenz
+  - Schnelle Einarbeitung in neue Technologien
 ```
 
 ---
@@ -75,38 +84,62 @@ soft_skills:
 
 | Datum | Zertifikat | Aussteller |
 |---|---|---|
-| 06/2025 | Microsoft Azure Fundamentals (AZ-900) | Microsoft |
-| 03/2026 | Cisco CCST Networking | Cisco NetAcad |
-| 09/2024 | LPIC-1: Linux Administrator | Linux Professional Institute |
+| 07/2024 | Backend Java Developer | DEKRA (via AIT TR GmbH) |
+| 03/2023 | Google Technical Support Fundamentals | Google |
+| 01/2026 | Cisco CCST Networking | Cisco NetAcad |
+| 07/2026 (erwartet) | Microsoft Azure Fundamentals (AZ-900) | Microsoft |
+| 2018 | NDG Linux Essentials | Cisco NetAcad |
+| 2022 | Basic Cyber Security | Prometheus (Ukraine) |
 
 ---
 
 ## BERUFSERFAHRUNG (chronologisch, neueste zuerst)
 
-### 10/2025 – heute | Weiterbildung IT-Administrator | TechCampus Berlin (Vollzeit)
-- Administration von Windows Server 2019/2022 und Linux (Debian/Ubuntu) in virtuellen Lab-Umgebungen
-- Konfiguration von Netzwerkdiensten: DNS, DHCP, VPN und Active Directory
+### 09/2025 – heute | Weiterbildung IT-Administrator | Zukunftsmotor (Vollzeit)
+- Administration von Windows Server (2019/2022) und Linux (Debian/Ubuntu)
+- Konfiguration von Netzwerkdiensten: DNS, DHCP, VPN, Active Directory
 - Cloud-Management mit Microsoft Azure; Virtualisierung mit Hyper-V
-- Firewall-Administration: OPNsense und pfSense — Regelwerk-Erstellung und Troubleshooting
-- Automatisierung mit Bash, PowerShell und Python
-- Agile Praxisprojekte nach Scrum-Methodik
-- Tech-Stack: Linux, Windows Server, Azure, Python, Bash, PowerShell, Docker
+- Automatisierung mit Bash, PowerShell, Python
+- Praxis: Abschlussprojekte mit agilen Methoden (Scrum)
+- Tech-Stack: Linux, Windows, MySQL, AWS, Azure, Python, Bash, PowerShell
 
-### 04/2024 – 09/2025 | IT-Support Techniker (1st/2nd Level) | Mittelstand IT-Service GmbH, Berlin
-- Bearbeitung von 30+ Support-Tickets/Woche — Störungsanalyse und -behebung
-- Windows-Client-Betreuung (200+ Arbeitsplätze) und Server-Support
-- Netzwerk-Troubleshooting (TCP/IP, VLAN, VPN)
-- Dokumentation von Lösungswegen und Erstellung von Wissensdatenbank-Artikeln
+### 05/2025 – 07/2025 | Zugbegleiter | Deutsche Bahn AG (Region Frankfurt)
+- Fahrausweisprüfung, Überwachung EBO, Erste-Hilfe-Maßnahmen
+- Kundenbetreuung und Auskunft zu Tarifen — Deutsch B2 im Einsatz
+- **Transferwert IT:** Stressresistenz, Regelkonformität, Kundenkommunikation
 
-### 01/2022 – 03/2024 | Junior Systemadministrator | WebDev Solutions AG, Potsdam
-- Linux-Server-Administration (Debian/Ubuntu) — Webserver, Datenbanken
-- Apache/Nginx-Konfiguration und LAMP-Stack-Betreuung
-- MySQL/MariaDB-Datenbankverwaltung und Backup-Strategien
-- Git-basierte Deployments und Docker-Containerisierung
+### 08/2024 – 02/2025 | Berufliche Orientierung | aQa GmbH, Hanau
+- Programm „3W – 3 Wege zum Job" — Erweiterung Berufskompetenzen DE-Markt
 
-### 08/2019 – 12/2021 | Fachinformatiker Systemintegration (Ausbildung) | NetSys GmbH, Berlin
-- Grundlagen: Windows Server, Linux, Netzwerktechnik, IT-Support
-- Abschlussprojekt: Automatisierte Server-Bereitstellung mit Ansible
+### 05/2024 – 01/2025 | Java Backend-Entwickler (Trainee) | LeafGrow GmbH, Deutschland
+- Entwicklung von Backend-Komponenten mit **Spring Boot**
+- Unit-Tests mit **JUnit**; Versionsverwaltung/Deployments mit **Git**
+- Erstellung von **Dockerfiles** — Container-Build und Deployment
+
+### 11/2023 – 07/2024 | Weiterbildung Java Software Developer | AIT TR GmbH
+- Java, Spring Tech (Java PRO), JavaScript, HTML5, CSS
+- DBMS: PostgreSQL, MongoDB; Linux (Basic); Git (PRO)
+- QA Basic (manuelles Testen); DEKRA-Abschlussprüfung
+
+### 11/2022 – 06/2023 | Rehabilitationsphase nach Erkrankung (vollständig)
+*(Anmerkung für Anschreiben: vollständige Rehabilitation, arbeitsfähig seit 07/2023)*
+
+### 11/2021 – 10/2022 | Perl-Entwickler (IT) | GeeksForLess Inc., Ukraine
+- Scripting für Backend-Abrechnungssysteme (Perl)
+- Integration in bestehende Unternehmens-IT-Systeme
+
+### 01/2010 – 10/2021 | Freelancer, Web-Systemadministrator (remote)
+- **Powerbay (Ukraine):** Content-/Systemadministration (Onlineshop), **Nginx**
+- **GreenLight LTD. (Ukraine):** **LAMP-Stack** (Apache), Internetpräsenz, Integration
+- **VALEKS Internet Store (Ukraine):** Webserver-Verwaltung, Systemadministration
+- *10 Jahre eigenverantwortliches, technisches Arbeiten*
+
+### 05/2002 – 08/2009 | Industriemechaniker | KrAZ (Kremenchuk, Ukraine)
+- Montage neuer Fahrzeuge, Präzisionsmontage, Qualitätskontrolle
+
+### 04/1998 – 05/2001 | Wehrdienst | Technische/logistische Einsatzbereiche
+
+### 07/1993 – 01/1998 | Mechanischer Monteur | KrAZ, Ukraine
 
 ---
 
@@ -114,18 +147,19 @@ soft_skills:
 
 | Zeitraum | Abschluss | Institution |
 |---|---|---|
-| 08/2019 – 06/2022 | Fachinformatiker Systemintegration (IHK) | NetSys GmbH / OSZ Berlin |
-| 09/2008 – 07/2016 | Abitur | Gymnasium Berlin |
+| 09/1990 – 05/1992 | Industriemechaniker (Abschluss) | Technische Schule, Ukraine |
+| 09/1980 – 05/1990 | Realschule | Ukraine |
 
 ---
 
 ## SPRACHEN
 
-| Sprache | Niveau |
-|---|---|
-| Deutsch | Muttersprache (C2) |
-| Englisch | Verhandlungssicher (C1) |
-| Russisch | Grundkenntnisse (A2) |
+| Sprache | Niveau | Hinweis |
+|---|---|---|
+| Ukrainisch | Muttersprache | |
+| Russisch | Muttersprache | |
+| Deutsch | B2 | Aktiv im Berufsalltag (Bahn) |
+| Englisch | A2 | Leseverstehen technisch |
 
 ---
 
@@ -133,20 +167,25 @@ soft_skills:
 
 ```yaml
 primary_targets:
+  - "IT-Administrator (Junior/Einsteiger)"
+  - "System Administrator"
   - "IT-Systemadministrator"
-  - "IT-Administrator"
-  - "Linux-Administrator"
-  - "IT-Support Techniker (2nd Level)"
+  - "Junior IT-Administrator"
+  - "IT-Support Techniker (1st/2nd Level)"
+  - "Cloud Administrator (Azure)"
+  - "Linux Administrator"
+  - "Helpdesk Techniker"
+  - "IT-Betrieb Spezialist"
 
 secondary_targets:
-  - "Cloud Administrator (Azure)"
-  - "Netzwerkadministrator"
   - "DevOps Engineer (Junior)"
+  - "Java Backend Developer (Junior)"
+  - "IT-Infrastruktur Spezialist"
+  - "Netzwerkadministrator"
 
-gehaltsvorstellung_brutto_pa: "42000-52000"
-standort_flexibilitaet: "Berlin / Hybrid / Remote deutschlandweit"
+gehaltsvorstellung_brutto_pa: "38000-48000"
+bevorzugte_arbeitsmodelle:
+  - "Vollzeit"
+  - "Hybrid"
+standort_flexibilitaet: "Raum Frankfurt/Rhein-Main, bundesweit remote"
 ```
-
----
-
-> ⚠️ **BEISPIEL-PROFIL!** Alle Daten sind fiktiv. Vor der Nutzung durch deine echten Daten ersetzen.

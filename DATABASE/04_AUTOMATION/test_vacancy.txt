@@ -1,107 +1,54 @@
-IT System Engineer (m/w/d) – Linux & Windows
-Servator Consulting GmbH
-65629 Niederneisen
-40.000 € – 65.000 € pro Jahr - Festanstellung, Vollzeit
-&nbsp;
-Stellenbeschreibung
-Gleichen Sie hier die Stellenbeschreibung mit Ihrem Profil ab.
-Gehalt
+Cloud Engineer (m/w/d)
+Das erwartet dich bei uns
 
-Anstellungsart
+    Du arbeitest in einem Team aus erfahrenen System-Administrator:innen und Cloud-Engineers.
+    Gemeinsam konzipiert, implementiert und betreibt ihr moderne IT-Plattformen für unsere Kunden auf der Adacor Private Cloud Plattform sowie Microsoft Azure. Dabei kommen je nach Kunde individuelle Cloud- und Web-Technologien zum Einsatz
+    Unser Herz schlägt für DevOps – Kubernetes, Terraform und CI/CD sind die Basis unseres Infrastructure-as-Code Ansatzes.
+    Wir arbeiten an großen, komplexen und kritischen Infrastrukturen unserer Kunden und übernehmen 365/24/7 Verantwortung auch in Form von Rufbereitschaft
+    Bei uns kannst du an den Technologie-Plattformen der großen Unternehmen in Deutschland arbeiten – aus einem Tech-Unternehmen heraus mit kurzen Wegen und vielen Möglichkeiten Einfluss zu nehmen.
+    Du bekommst die Möglichkeit und freust dich darauf, dich technologisch immer Weiterzuentwickeln z.B. in Richtung Kubernetes oder Microsoft Azure.
+    Agiles und modernes Arbeiten nutzen wir so wie es für die Teams passt. Das arbeiten mit Sprints, Kanban, Retrospektiven und Dailys ist für uns selbstverständnlich.
+    Austausch, Weiterentwicklung und Teamgeist sind bei kritischen Infrastrukturen elementar. Deswegen sind wir pro Woche 3 Tage im Office und 2 Tage können Remote gearbeitet werden.
 
-&nbsp;
-Arbeitsort
-65629 Niederneisen
-&nbsp;
-Leistungen
+Deine Benefits
 
-Aus der vollständigen Stellenbeschreibung
+Kostenlose Getränke & Obst kennst du schon? Wir haben dir noch viel mehr zu bieten:
 
-    Betriebliche Weiterbildung
-    Kostenlose Getränke
-    Weiterbildungsprogramme
-    Kostenloser Parkplatz
+    Windows, macOS oder Linux? Deine Entscheidung
+    2 Remote Work Tage pro Woche
+    Unbefristeter Arbeitsvertrag
+    30 Urlaubstage
     Flexible Arbeitszeiten
+    Mentor:in
+    Individuelle Einarbeitung
+    Vereinbarkeit Beruf & Familie
+    Eltern-Kind-Büro
+    Corporate Benefit Programm
+    Personal Trainer
+    Gym
+    Gamesroom mit Tischkicker, Pinball & mehr
 
-&nbsp;
-Vollständige Stellenbeschreibung
+Du passt zu uns
 
-Gestalte mit uns die digitale Zukunft von Schulen.
-
-Du arbeitest gerne mit Linux und Windows? Du möchtest moderne IT-Infrastrukturen betreiben, spannende Projekte umsetzen und gleichzeitig mit Deiner Arbeit einen echten Beitrag zur Digitalisierung von Schulen leisten?
-
-Dann bist Du bei der Servator Consulting GmbH genau richtig.
-
-Seit über 20 Jahren unterstützen wir Schulen, Schulträger und Bildungseinrichtungen im Bereich Beratung und Realisation moderner IT-Lösungen. Als zertifizierter Supportpartner begleiten wir die Einführung und den Betrieb von IServ RLP, der offiziellen Nachfolgelösung von MNS+, und setzen dabei konsequent auf leistungsfähige Linux-, Windows- und Open-Source-Technologien.
-
-Deine Aufgaben
-
-    Administration von Linux- und Windows-Systemen
-    Installation und Betreuung von Server-, Client- und Netzwerkumgebungen
-    Administration von Firewalls (OPNsense / pfSense)
-    Installation und Betrieb von IServ-RLP-Umgebungen
-    Bearbeitung von Support-Tickets
-    Analyse und Behebung technischer Störungen
-    Umsetzung spannender IT-Projekte bei Schulen
-    Dokumentation und Optimierung bestehender IT-Systeme
-
-Etwa 20–40 % Deiner Arbeitszeit bist Du direkt bei unseren Kunden – Schulen und Bildungseinrichtungen – im Einsatz.
-
-Das bringst Du mit
-
-    Abgeschlossene IT-Berufsausbildung oder vergleichbare Qualifikation
-    Mindestens 3 Jahre Berufserfahrung
-    Gute Kenntnisse in Linux und Windows
-    Erfahrung mit Netzwerken (TCP/IP, Routing, VLAN, VPN)
-    Erfahrung mit Firewalls (OPNsense, pfSense oder vergleichbar)
-    Selbstständige und strukturierte Arbeitsweise
-    Freude am Kundenkontakt
-    Führerschein Klasse B
-    Sprachkenntnis Deutsch fließend
-
-Darüber freuen wir uns zusätzlich
-
-    Proxmox
-    Nextcloud
-    LDAP / Samba
-    Bash, PowerShell oder Python
-    Backup- und Monitoring-Lösungen
-
-Das erwartet Dich
-
-    Spannende Projekte im Bildungsbereich
-    Moderne Linux-, Windows- und Open-Source-Technologien
-    Mitarbeit an IServ RLP
-    Kurze Entscheidungswege
-    Direkter Austausch mit dem Geschäftsführer
-    Viel Eigenverantwortung
-    Individuelle Weiterbildung
-    Langfristige Perspektive in einem erfolgreichen Unternehmen
-
-Bewerbung? Ganz unkompliziert.
-
-Kein Anschreiben.
-
-Kein aufwendig formatierter Lebenslauf.
-
-Nutze einfach unseren 60-Sekunden-Fit-Check: https://tinyurl.com/servator
-
-Wenn wir den Eindruck haben, dass wir gut zusammenpassen, melden wir uns kurzfristig telefonisch bei Dir. Erst danach benötigen wir Deinen Lebenslauf.
-
-Wir freuen uns darauf, Dich kennenzulernen.
-
-Gehalt: 40.000,00€ - 65.000,00€ pro Jahr
-
-Leistungen:
-
-    Betriebliche Weiterbildung
-    Flexible Arbeitszeiten
-    Kostenlose Getränke
-    Kostenloser Parkplatz
-    Weiterbildungsprogramme
-
-Sprache:
-
-    Deutsch (Erforderlich)
-
-Arbeitsort: Vor Ort
+    Du verfügst über Berufserfahrung als Systemadministrator, Cloud Engineer oder DevOps Engineer.
+    Du begeisterst dich für die Möglichkeiten der Cloud und dich bei uns auch in die Richtungen Kubernetes und Public-Cloud weiterzuentwickeln.
+    Du hat bereits produktive virtualisierte IT-Umgebungen implementiert und betreut.
+    Du brennst für Automatisierung und bringst erste praktische Kenntnisse in Infrastructure as Code mit (z.B. Terraform, Git, Jenkins oder Ansible).
+    Incidents und Problems gehst du mit Gewissenhaftigkeit und Struktur an.
+    Du sprichst Deutsch verhandlungssicher in Wort und Schrift (mindestens B1).
+    Solltest du bereits über Erfahrungen und Zertifizierungen in Kubernetes, AWS oder Azure verfügen, freuen wir uns darüber umso mehr.
+    
+    
+    ---
+    
+    Job-Infos
+Berufsfelder
+System Engineering / Admin
+Studienfächer
+Informatik
+Informationstechnik
+Wirtschaftsinformatik
+Abschluss
+Ausbildung
+Bachelor
+Master/Diplom
