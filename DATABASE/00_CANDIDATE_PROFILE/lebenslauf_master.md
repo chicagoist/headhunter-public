@@ -1,12 +1,12 @@
-# [VORNAME NACHNAME]
+# MAX MUSTERMANN
 
 ## PROFIL
 
-[DREI-ZEILIGES PROFIL — Spiegle deine Zielrolle, Top-Technologien und USP wider.]
-Beispiel:
-IT-Administrator mit Spezialisierung auf Cloud-Infrastrukturen (MS Azure) und Prozessautomatisierung.
-Fundierte Praxis in Windows Server / Linux-Administration, Netzwerktechnik und IT-Sicherheit.
-**Verfügbar ab: [DATUM]**
+IT-Administrator mit Spezialisierung auf Linux- und Windows-Server-Administration sowie Netzwerkinfrastruktur.
+Durch meine aktuelle Vollzeit-Weiterbildung (TechCampus Berlin) verfüge ich über fundierte Praxiskenntnisse in
+Windows Server / Linux-Administration, Firewall-Konfiguration (OPNsense/pfSense) und IT-Sicherheit (DSGVO).
+Eigenverantwortlich, lösungsorientiert, Scrum-erfahren.
+**Verfügbar ab: 01.10.2026**
 
 ---
 
@@ -14,25 +14,25 @@ Fundierte Praxis in Windows Server / Linux-Administration, Netzwerktechnik und I
 
 | | |
 |---|---|
-| **Telefon** | [TELEFONNUMMER] |
-| **E-Mail** | [EMAIL] |
-| **Adresse** | [STRASSE, PLZ STADT] |
-| **LinkedIn** | [LINKEDIN-URL] |
-| **GitHub** | [GITHUB-URL] |
+| **Telefon** | +49 123 4567890 |
+| **E-Mail** | max.mustermann@email.de |
+| **Adresse** | Musterstraße 1, 10115 Berlin |
+| **LinkedIn** | linkedin.com/in/maxmustermann |
+| **GitHub** | github.com/maxmustermann |
 
 ---
 
 ## KENNTNISSE
 
-**Cloud & Server:** [Technologien, durch Komma getrennt]
+**Cloud & Server:** MS Azure (AZ-900), Linux (Debian/Ubuntu), Windows Server 2019/2022, Active Directory, Hyper-V
 
-**Scripting & Code:** [Sprachen und Tools]
+**Netzwerke & Sicherheit:** TCP/IP, DNS, DHCP, VLAN, VPN, OPNsense/pfSense, Cisco CCST Networking, DSGVO
 
-**Datenbanken:** [Datenbanken]
+**Scripting & Code:** Python, Bash, PowerShell, Java (Spring Boot), JavaScript/HTML/CSS (Grundlagen)
 
-**DevOps & Tools:** [DevOps-Tools]
+**Datenbanken:** MySQL, PostgreSQL, MongoDB
 
-**IT-Sicherheit:** [Security-Kenntnisse]
+**DevOps & Tools:** Git, Docker, Ansible, Nginx, Apache (LAMP), Scrum/Agile
 
 ---
 
@@ -40,27 +40,37 @@ Fundierte Praxis in Windows Server / Linux-Administration, Netzwerktechnik und I
 
 | Datum | Zertifikat | Aussteller |
 |---|---|---|
-| MM/YYYY | [Zertifikat 1] | [Aussteller] |
-| MM/YYYY | [Zertifikat 2] | [Aussteller] |
+| 06/2025 | Microsoft Azure Fundamentals (AZ-900) | Microsoft |
+| 03/2026 | Cisco CCST Networking | Cisco NetAcad |
+| 09/2024 | LPIC-1: Linux Administrator | Linux Professional Institute |
 
 ---
 
 ## BERUFSERFAHRUNG
 
-### MM/YYYY – heute | [Aktuelle Position] | [Unternehmen]
-- [Aufgabe 1 — Aktionsverb + Technologie + Ergebnis/Kontext]
-- [Aufgabe 2]
-- [Aufgabe 3]
+### 10/2025 – heute | Weiterbildung IT-Administrator | TechCampus Berlin (Vollzeit)
+- Administration von Windows Server 2019/2022 und Linux (Debian/Ubuntu) in virtuellen Lab-Umgebungen
+- Konfiguration von Netzwerkdiensten: DNS, DHCP, VPN und Active Directory
+- Cloud-Management mit Microsoft Azure; Virtualisierung mit Hyper-V
+- Firewall-Administration: OPNsense und pfSense — Regelwerk-Erstellung und Troubleshooting
+- Automatisierung mit Bash, PowerShell und Python
+- Agile Praxisprojekte nach Scrum-Methodik
 
-### MM/YYYY – MM/YYYY | [Vorherige Position] | [Unternehmen]
-- [Aufgabe 1]
-- [Aufgabe 2]
+### 04/2024 – 09/2025 | IT-Support Techniker (1st/2nd Level) | Mittelstand IT-Service GmbH, Berlin
+- Bearbeitung von 30+ Support-Tickets/Woche — Störungsanalyse und -behebung
+- Windows-Client-Betreuung (200+ Arbeitsplätze) und Server-Support
+- Netzwerk-Troubleshooting (TCP/IP, VLAN, VPN)
+- Dokumentation von Lösungswegen und Wissensdatenbank-Artikeln
 
-### MM/YYYY – MM/YYYY | [Frühere Position] | [Unternehmen]
-- [Aufgabe 1]
+### 01/2022 – 03/2024 | Junior Systemadministrator | WebDev Solutions AG, Potsdam
+- Linux-Server-Administration (Debian/Ubuntu) — Webserver, Datenbanken
+- Apache/Nginx-Konfiguration und LAMP-Stack-Betreuung
+- MySQL/MariaDB-Datenbankverwaltung und Backup-Strategien
+- Git-basierte Deployments und Docker-Containerisierung
 
-### MM/YYYY – MM/YYYY | [Ältere Position] | [Unternehmen]
-- [Aufgabe 1]
+### 08/2019 – 12/2021 | Fachinformatiker Systemintegration (Ausbildung) | NetSys GmbH, Berlin
+- Grundlagen: Windows Server, Linux, Netzwerktechnik, IT-Support
+- Abschlussprojekt: Automatisierte Server-Bereitstellung mit Ansible
 
 ---
 
@@ -68,7 +78,8 @@ Fundierte Praxis in Windows Server / Linux-Administration, Netzwerktechnik und I
 
 | Zeitraum | Abschluss | Institution |
 |---|---|---|
-| MM/YYYY – MM/YYYY | [Abschluss] | [Institution] |
+| 08/2019 – 06/2022 | Fachinformatiker Systemintegration (IHK) | NetSys GmbH / OSZ Berlin |
+| 09/2008 – 07/2016 | Abitur | Gymnasium Berlin |
 
 ---
 
@@ -76,11 +87,11 @@ Fundierte Praxis in Windows Server / Linux-Administration, Netzwerktechnik und I
 
 | Sprache | Niveau |
 |---|---|
-| [Muttersprache] | Muttersprache |
-| Deutsch | [Niveau] |
-| Englisch | [Niveau] |
+| Deutsch | Muttersprache (C2) |
+| Englisch | Verhandlungssicher (C1) |
+| Russisch | Grundkenntnisse (A2) |
 
 ---
 
-> ⚠️ **VORLAGE — VOR NUTZUNG ERSETZEN!** Alle `[...]`-Platzhalter durch echte Daten ersetzen.  
+> ⚠️ **BEISPIEL-LEBENSLAUF!** Alle Daten sind fiktiv (Max Mustermann). Vor der Nutzung durch deine echten Daten ersetzen.
 > Format-Regeln: Single-Column Markdown, Daten als MM/YYYY, keine Tabellen in Kernabschnitten (ATS-Parsing).

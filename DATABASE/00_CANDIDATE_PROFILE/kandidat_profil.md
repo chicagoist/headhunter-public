@@ -1,31 +1,29 @@
-# KANDIDATENPROFIL — VORLAGE (MIT DEINEN DATEN BEFÜLLEN!)
+# KANDIDATENPROFIL — BEISPIEL (MIT DEINEN DATEN ERSETZEN!)
 # Maschinenlesbare Stammdaten für den HeadHunter-Agenten
-# ⚠️ VOR DER ERSTEN NUTZUNG: ALLE PLATZHALTER ([...]) DURCH ECHTE DATEN ERSETZEN!
+# ⚠️ Dies ist ein BEISPIEL-Profil. Vor der Nutzung durch deine echten Daten ersetzen!
 
 ---
 
 ## PERSÖNLICHE DATEN
 
 ```yaml
-name:            "[VORNAME NACHNAME]"
-adresse:         "[STRASSE NR], [PLZ] [STADT]"
-telefon:         "+49 [NUMMER]"
-email:           "[deine@email.de]"
-linkedin:        "https://linkedin.com/in/[dein-profil]"
-github:          "https://github.com/[dein-profil]"
-verfuegbar_ab:   "[TT.MM.JJJJ]"
-aufenthalt:      "[Aufenthaltsstatus: z.B. EU-Bürger, Arbeitserlaubnis DE]"
+name:            "Max Mustermann"
+adresse:         "Musterstraße 1, 10115 Berlin"
+telefon:         "+49 123 4567890"
+email:           "max.mustermann@email.de"
+linkedin:        "https://linkedin.com/in/maxmustermann"
+github:          "https://github.com/maxmustermann"
+verfuegbar_ab:   "01.10.2026"
+aufenthalt:      "EU-Bürger, Arbeitserlaubnis DE"
 ```
 
 ---
 
 ## PROFIL (Kurzfassung — 3 Sätze)
 
-[DEIN PROFIL — 3 Sätze über deine Rolle, Top-Technologien und USP.]
-Beispiel:
-  IT-Administrator mit Spezialisierung auf Cloud-Infrastrukturen (MS Azure).
-  Fundierte Praxis in Windows Server / Linux-Administration, Netzwerktechnik und IT-Sicherheit.
-  Lösungsorientiert, Scrum-erfahren. Verfügbar ab [DATUM].
+IT-Administrator mit Spezialisierung auf Linux- und Windows-Server-Administration sowie Netzwerkinfrastruktur.
+Fundierte Praxis in Firewall-Konfiguration (OPNsense/pfSense), Active Directory und IT-Support (1st/2nd Level).
+Lösungsorientiert, eigenverantwortlich. Verfügbar ab 01.10.2026.
 
 ---
 
@@ -33,29 +31,42 @@ Beispiel:
 
 ```yaml
 cloud_und_server:
-  - [Cloud-Technologie 1]
-  - [Cloud-Technologie 2]
-  - [Betriebssystem 1] — Administration
-  - [Betriebssystem 2] — Administration
+  - MS Azure (AZ-900)
+  - Linux (Debian, Ubuntu) — Administration
+  - Windows Server 2019/2022 — Administration
+  - Active Directory / Gruppenrichtlinien
+  - Hyper-V (Virtualisierung)
+  - DNS, DHCP, VPN Konfiguration
 
 programmierung_und_scripting:
-  - [Sprache 1] (Scripting, Automatisierung)
-  - [Sprache 2] (Shell-Scripting)
-  - [Sprache 3]
+  - Python (Scripting, Automatisierung)
+  - Bash (Shell-Scripting, Cron-Jobs)
+  - PowerShell (Windows-Automatisierung)
+  - Java + Spring Boot (Backend — Grundkenntnisse)
 
 datenbanken:
-  - [Datenbank 1]
-  - [Datenbank 2]
+  - MySQL / MariaDB
+  - PostgreSQL
+  - MongoDB
 
 devops_und_tools:
-  - [Tool 1]
-  - [Tool 2]
-  - [Methodik]
+  - Git — Versionsverwaltung, CI/CD
+  - Docker (Container, Dockerfiles)
+  - Ansible (Grundkenntnisse)
+  - Nginx, Apache (LAMP-Stack)
+  - Scrum / Agile
+
+it_sicherheit:
+  - DSGVO — Grundlagen IT-Sicherheit
+  - Firewall-Administration (OPNsense, pfSense)
+  - Cisco CCST Networking (2026)
 
 soft_skills:
-  - [Soft Skill 1]
-  - [Soft Skill 2]
-  - [Soft Skill 3]
+  - Eigenverantwortliches Arbeiten
+  - Kundenkommunikation (Deutsch C1)
+  - Stressresistenz
+  - Strukturierte, fehlerorientierte Arbeitsweise
+  - Problemlösungskompetenz
 ```
 
 ---
@@ -64,24 +75,38 @@ soft_skills:
 
 | Datum | Zertifikat | Aussteller |
 |---|---|---|
-| MM/YYYY | [Zertifikatsname] | [Aussteller] |
-| MM/YYYY | [Zertifikatsname] | [Aussteller] |
+| 06/2025 | Microsoft Azure Fundamentals (AZ-900) | Microsoft |
+| 03/2026 | Cisco CCST Networking | Cisco NetAcad |
+| 09/2024 | LPIC-1: Linux Administrator | Linux Professional Institute |
 
 ---
 
 ## BERUFSERFAHRUNG (chronologisch, neueste zuerst)
 
-### MM/YYYY – heute | [Aktuelle Position] | [Unternehmen]
-- [Aufgabe 1 — Aktionsverb + Technologie + Ergebnis]
-- [Aufgabe 2]
-- Tech-Stack: [Technologien, durch Komma getrennt]
+### 10/2025 – heute | Weiterbildung IT-Administrator | TechCampus Berlin (Vollzeit)
+- Administration von Windows Server 2019/2022 und Linux (Debian/Ubuntu) in virtuellen Lab-Umgebungen
+- Konfiguration von Netzwerkdiensten: DNS, DHCP, VPN und Active Directory
+- Cloud-Management mit Microsoft Azure; Virtualisierung mit Hyper-V
+- Firewall-Administration: OPNsense und pfSense — Regelwerk-Erstellung und Troubleshooting
+- Automatisierung mit Bash, PowerShell und Python
+- Agile Praxisprojekte nach Scrum-Methodik
+- Tech-Stack: Linux, Windows Server, Azure, Python, Bash, PowerShell, Docker
 
-### MM/YYYY – MM/YYYY | [Vorherige Position] | [Unternehmen]
-- [Aufgabe 1]
-- [Aufgabe 2]
+### 04/2024 – 09/2025 | IT-Support Techniker (1st/2nd Level) | Mittelstand IT-Service GmbH, Berlin
+- Bearbeitung von 30+ Support-Tickets/Woche — Störungsanalyse und -behebung
+- Windows-Client-Betreuung (200+ Arbeitsplätze) und Server-Support
+- Netzwerk-Troubleshooting (TCP/IP, VLAN, VPN)
+- Dokumentation von Lösungswegen und Erstellung von Wissensdatenbank-Artikeln
 
-### MM/YYYY – MM/YYYY | [Frühere Position] | [Unternehmen]
-- [Aufgabe 1]
+### 01/2022 – 03/2024 | Junior Systemadministrator | WebDev Solutions AG, Potsdam
+- Linux-Server-Administration (Debian/Ubuntu) — Webserver, Datenbanken
+- Apache/Nginx-Konfiguration und LAMP-Stack-Betreuung
+- MySQL/MariaDB-Datenbankverwaltung und Backup-Strategien
+- Git-basierte Deployments und Docker-Containerisierung
+
+### 08/2019 – 12/2021 | Fachinformatiker Systemintegration (Ausbildung) | NetSys GmbH, Berlin
+- Grundlagen: Windows Server, Linux, Netzwerktechnik, IT-Support
+- Abschlussprojekt: Automatisierte Server-Bereitstellung mit Ansible
 
 ---
 
@@ -89,7 +114,8 @@ soft_skills:
 
 | Zeitraum | Abschluss | Institution |
 |---|---|---|
-| MM/YYYY – MM/YYYY | [Abschluss] | [Institution] |
+| 08/2019 – 06/2022 | Fachinformatiker Systemintegration (IHK) | NetSys GmbH / OSZ Berlin |
+| 09/2008 – 07/2016 | Abitur | Gymnasium Berlin |
 
 ---
 
@@ -97,9 +123,9 @@ soft_skills:
 
 | Sprache | Niveau |
 |---|---|
-| [Muttersprache] | Muttersprache |
-| Deutsch | [B1/B2/C1/C2] |
-| Englisch | [A2/B1/B2/C1] |
+| Deutsch | Muttersprache (C2) |
+| Englisch | Verhandlungssicher (C1) |
+| Russisch | Grundkenntnisse (A2) |
 
 ---
 
@@ -107,15 +133,20 @@ soft_skills:
 
 ```yaml
 primary_targets:
-  - "[HAUPT-ZIELJOBTITEL]"
-  - "[Alternative 1]"
-  - "[Alternative 2]"
+  - "IT-Systemadministrator"
+  - "IT-Administrator"
+  - "Linux-Administrator"
+  - "IT-Support Techniker (2nd Level)"
 
-gehaltsvorstellung_brutto_pa: "XXXXX-XXXXX"
-standort_flexibilitaet: "[Bevorzugter Standort / Remote / Bundesweit]"
+secondary_targets:
+  - "Cloud Administrator (Azure)"
+  - "Netzwerkadministrator"
+  - "DevOps Engineer (Junior)"
+
+gehaltsvorstellung_brutto_pa: "42000-52000"
+standort_flexibilitaet: "Berlin / Hybrid / Remote deutschlandweit"
 ```
 
 ---
 
-> ⚠️ **WICHTIG:** Dies ist eine VORLAGE. Alle `[...]`-Platzhalter durch deine echten Daten ersetzen.  
-> Der Agent liest diese Datei für ATS-Matching und CV-Anpassung. Ohne korrekte Daten = schwache Ergebnisse.
+> ⚠️ **BEISPIEL-PROFIL!** Alle Daten sind fiktiv. Vor der Nutzung durch deine echten Daten ersetzen.
