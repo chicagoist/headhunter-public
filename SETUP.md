@@ -42,6 +42,7 @@ The agent tries engines in this order: **pandoc+wkhtmltopdf** → **wkhtmltopdf*
 
 **Recommendation:**
 - **Linux:** `weasyprint` is easiest (pure Python, already in `requirements.txt`)
+  - On minimal systems (Docker/VPS) you may need: `sudo apt install libpango-1.0-0 libcairo2 libgdk-pixbuf2.0-0`
 - **Windows:** `winget install wkhtmltopdf` — clean install, no dependencies
 - **macOS:** `brew install wkhtmltopdf`
 
