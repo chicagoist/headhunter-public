@@ -678,8 +678,19 @@ def save_output_package(
 def log_to_db(vacancy_json: dict, match_json: dict, out_dir: Path) -> None:
     """Записывает отклик в SQLite базу данных."""
     if not DB_PATH.exists():
-        print("  [INFO] DB nicht gefunden, kein Log. Zuerst setup_ats_db.py ausfuehren.")
-        return
+        print("  [INFO] DB nicht gefunden — initialisiere automatisch...")
+        _setup = BASE_DIR / "DATABASE" / "04_AUTOMATION" / "setup_ats_db.py"
+        if _setup.exists():
+            result = subprocess.run(
+                [sys.executable, str(_setup)],
+                capture_output=True, cwd=str(BASE_DIR), timeout=30
+            )
+            if result.returncode != 0 or not DB_PATH.exists():
+                print("  [WARNUNG] DB-Initialisierung fehlgeschlagen, kein Log.")
+                return
+        else:
+            print("  [WARNUNG] setup_ats_db.py nicht gefunden, kein Log.")
+            return
     try:
         conn = sqlite3.connect(DB_PATH)
         cur  = conn.cursor()
