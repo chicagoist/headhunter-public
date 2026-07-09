@@ -28,6 +28,8 @@
 
 ## Часть 1: Установка (делается один раз)
 
+> 📘 **Полный кроссплатформенный гайд:** [`SETUP.md`](SETUP.md) — установка на Windows/Linux/macOS, таблица PDF-движков, решение проблем с зависимостями.
+
 ### Шаг 1.1 — Проверить Python
 
 Откройте PowerShell (Win+X → Terminal) и введите:
@@ -38,18 +40,31 @@ python --version
 
 ### Шаг 1.2 — Установить зависимости
 
+Все Python-зависимости перечислены в [`requirements.txt`](requirements.txt):
+
 ```powershell
-pip install httpx
+pip install -r requirements.txt
 ```
+
+> ⚠️ На Linux с externally-managed Python: `pip install --break-system-packages -r requirements.txt`
 
 ### Шаг 1.3 — Установить PDF-конвертер
 
 ```powershell
+# Windows:
 winget install wkhtmltopdf
 winget install JohnMacFarlane.Pandoc
+
+# Linux:
+sudo apt install wkhtmltopdf pandoc
+
+# macOS:
+brew install wkhtmltopdf pandoc
 ```
 
-После установки **перезапустите PowerShell**.
+После установки **перезапустите PowerShell/Terminal**.
+
+> 💡 Подробнее о выборе PDF-движка под вашу ОС — см. [`SETUP.md`](SETUP.md).
 
 ### Шаг 1.4 — Получить бесплатный API-ключ
 
@@ -363,7 +378,7 @@ python DATABASE\04_AUTOMATION\check_backends.py
 
 | Проблема | Решение |
 |---|---|
-| `FileNotFoundError: kandidat_profil.md` | Запускайте из `PROJECT_beta`, не из `DATABASE\04_AUTOMATION` |
+| `FileNotFoundError: kandidat_profil.md` | Запускайте из корня проекта (`headhunter-public/`), не из `DATABASE\04_AUTOMATION` |
 | `HTTP 429` | Вечерняя нагрузка. Подождите 10-15 мин или запустите утром |
 | `HTTP 401 Unauthorized` | Неверный ключ. Проверьте: `$env:MISTRAL_API_KEY` |
 | PDF пустой | Проверьте: `wkhtmltopdf --version` und `pandoc --version` |
