@@ -1,0 +1,23 @@
+$schema: https://raw.githubusercontent.com/DavidAnson/markdownlint/v0.40.0/schema/markdownlint-config-schema.json
+# Default state for all rules
+default: true
+
+# Disable max line length
+MD013: false
+
+# Allow duplicated heading for different sections
+MD024:
+  siblings_only: true
+
+# Allow multiple H1 headings in the same document
+MD025: false
+
+# Disable blanks-around-lists enforcement
+MD032: false
+
+# Enforce fenced code blocks
+MD046:
+  style: fenced
+
+# Disable table column style enforcement
+MD060: false

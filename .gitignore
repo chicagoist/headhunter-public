@@ -1,0 +1,46 @@
+# ===========================
+# HeadHunter Public
+# ===========================
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs (personal application data)
+OUTPUT/Bewerbungen/*
+!OUTPUT/Bewerbungen/.gitkeep
+
+# Database (contains personal data)
+DATABASE/05_DATABASE/ats_optimization.db
+
+# Personal documents
+*.odt
+*.docx
+*.xlsx
+*.pdf
+*.odt~
+*.docx~
+
+# Ollama models (large binaries)
+*.gguf
+
+# Temp files
+tmp_*
+*.tmp

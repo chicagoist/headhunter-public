@@ -1,0 +1,16 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+
+  // Модель по умолчанию — та же что в agent.py
+  "model": "mistral/mistral-large-latest",
+
+  // MCP-инструменты: подключаем agent.py как локальный сервер
+  "mcp": {
+    "headhunter": {
+      "type": "local",
+      "command": "python",
+      "args": ["DATABASE/04_AUTOMATION/mcp_server.py"],
+      "enabled": true
+    }
+  }
+}

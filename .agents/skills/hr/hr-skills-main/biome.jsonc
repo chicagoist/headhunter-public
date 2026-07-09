@@ -1,0 +1,56 @@
+{
+	"$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
+	"files": {
+		"includes": [
+			"./**/*.ts",
+			"./**/*.{json,jsonc,yml}",
+			"!**/dist",
+			"!**/node_modules",
+			"!**/.turbo",
+			"!**/.claude-plugin"
+		]
+	},
+	"assist": {
+		"actions": {
+			"source": {
+				"organizeImports": "on"
+			}
+		}
+	},
+	"formatter": {
+		"enabled": true,
+		"attributePosition": "multiline",
+		"indentStyle": "tab",
+		"indentWidth": 4,
+		"lineEnding": "lf",
+		"lineWidth": 90
+	},
+	"javascript": {
+		"formatter": {
+			"enabled": true,
+			"arrowParentheses": "always",
+			"attributePosition": "multiline",
+			"bracketSameLine": true,
+			"bracketSpacing": true,
+			"jsxQuoteStyle": "single",
+			"quoteStyle": "single",
+			"semicolons": "always",
+			"trailingCommas": "all"
+		},
+		"globals": ["Bun"]
+	},
+	"linter": {
+		"enabled": true,
+		"rules": {
+			"preset": "recommended",
+			"complexity": {
+				"useLiteralKeys": "off"
+			}
+		}
+	},
+	"vcs": {
+		"defaultBranch": "main",
+		"clientKind": "git",
+		"enabled": true
+	}
+}

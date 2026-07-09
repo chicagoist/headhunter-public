@@ -1,0 +1,107 @@
+IT System Engineer (m/w/d) – Linux & Windows
+Servator Consulting GmbH
+65629 Niederneisen
+40.000 € – 65.000 € pro Jahr - Festanstellung, Vollzeit
+&nbsp;
+Stellenbeschreibung
+Gleichen Sie hier die Stellenbeschreibung mit Ihrem Profil ab.
+Gehalt
+
+Anstellungsart
+
+&nbsp;
+Arbeitsort
+65629 Niederneisen
+&nbsp;
+Leistungen
+
+Aus der vollständigen Stellenbeschreibung
+
+    Betriebliche Weiterbildung
+    Kostenlose Getränke
+    Weiterbildungsprogramme
+    Kostenloser Parkplatz
+    Flexible Arbeitszeiten
+
+&nbsp;
+Vollständige Stellenbeschreibung
+
+Gestalte mit uns die digitale Zukunft von Schulen.
+
+Du arbeitest gerne mit Linux und Windows? Du möchtest moderne IT-Infrastrukturen betreiben, spannende Projekte umsetzen und gleichzeitig mit Deiner Arbeit einen echten Beitrag zur Digitalisierung von Schulen leisten?
+
+Dann bist Du bei der Servator Consulting GmbH genau richtig.
+
+Seit über 20 Jahren unterstützen wir Schulen, Schulträger und Bildungseinrichtungen im Bereich Beratung und Realisation moderner IT-Lösungen. Als zertifizierter Supportpartner begleiten wir die Einführung und den Betrieb von IServ RLP, der offiziellen Nachfolgelösung von MNS+, und setzen dabei konsequent auf leistungsfähige Linux-, Windows- und Open-Source-Technologien.
+
+Deine Aufgaben
+
+    Administration von Linux- und Windows-Systemen
+    Installation und Betreuung von Server-, Client- und Netzwerkumgebungen
+    Administration von Firewalls (OPNsense / pfSense)
+    Installation und Betrieb von IServ-RLP-Umgebungen
+    Bearbeitung von Support-Tickets
+    Analyse und Behebung technischer Störungen
+    Umsetzung spannender IT-Projekte bei Schulen
+    Dokumentation und Optimierung bestehender IT-Systeme
+
+Etwa 20–40 % Deiner Arbeitszeit bist Du direkt bei unseren Kunden – Schulen und Bildungseinrichtungen – im Einsatz.
+
+Das bringst Du mit
+
+    Abgeschlossene IT-Berufsausbildung oder vergleichbare Qualifikation
+    Mindestens 3 Jahre Berufserfahrung
+    Gute Kenntnisse in Linux und Windows
+    Erfahrung mit Netzwerken (TCP/IP, Routing, VLAN, VPN)
+    Erfahrung mit Firewalls (OPNsense, pfSense oder vergleichbar)
+    Selbstständige und strukturierte Arbeitsweise
+    Freude am Kundenkontakt
+    Führerschein Klasse B
+    Sprachkenntnis Deutsch fließend
+
+Darüber freuen wir uns zusätzlich
+
+    Proxmox
+    Nextcloud
+    LDAP / Samba
+    Bash, PowerShell oder Python
+    Backup- und Monitoring-Lösungen
+
+Das erwartet Dich
+
+    Spannende Projekte im Bildungsbereich
+    Moderne Linux-, Windows- und Open-Source-Technologien
+    Mitarbeit an IServ RLP
+    Kurze Entscheidungswege
+    Direkter Austausch mit dem Geschäftsführer
+    Viel Eigenverantwortung
+    Individuelle Weiterbildung
+    Langfristige Perspektive in einem erfolgreichen Unternehmen
+
+Bewerbung? Ganz unkompliziert.
+
+Kein Anschreiben.
+
+Kein aufwendig formatierter Lebenslauf.
+
+Nutze einfach unseren 60-Sekunden-Fit-Check: https://tinyurl.com/servator
+
+Wenn wir den Eindruck haben, dass wir gut zusammenpassen, melden wir uns kurzfristig telefonisch bei Dir. Erst danach benötigen wir Deinen Lebenslauf.
+
+Wir freuen uns darauf, Dich kennenzulernen.
+
+Gehalt: 40.000,00€ - 65.000,00€ pro Jahr
+
+Leistungen:
+
+    Betriebliche Weiterbildung
+    Flexible Arbeitszeiten
+    Kostenlose Getränke
+    Kostenloser Parkplatz
+    Weiterbildungsprogramme
+
+Sprache:
+
+    Deutsch (Erforderlich)
+
+Arbeitsort: Vor Ort
