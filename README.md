@@ -25,16 +25,20 @@ This agent automates the German job application workflow in **5 steps**:
 ### Prerequisites
 
 - **Python 3.10+** — [python.org](https://python.org)
-- **pip** — `pip install httpx`
-- **PDF engine** (optional) — `winget install wkhtmltopdf pandoc` (Windows) or `apt install wkhtmltopdf pandoc` (Linux)
+- **pip packages** — `pip install -r requirements.txt`
+- **PDF engine** (at least one) — see [SETUP.md](SETUP.md) for cross-platform guide
+
+Full setup guide for Windows/Linux/macOS: **[SETUP.md](SETUP.md)**
 
 ### 1. Clone & Setup
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/headhunter-public.git
 cd headhunter-public
-pip install httpx
+pip install -r requirements.txt
 ```
+
+See **[SETUP.md](SETUP.md)** for detailed cross-platform setup (Windows, Linux, macOS).
 
 ### 2. Fill in Your Profile
 

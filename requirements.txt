@@ -1,0 +1,19 @@
+# HeadHunter Agent — Python Dependencies
+# Install: pip install -r requirements.txt
+# (Use --break-system-packages on Linux if needed)
+
+# === Required ===
+httpx>=0.27,<1.0
+
+# === PDF Generation (at least one required) ===
+
+# Option 1: weasyprint (cross-platform, pure Python, recommended)
+weasyprint>=60
+
+# Option 2: pandoc + wkhtmltopdf (installed via system package manager, see SETUP.md)
+#   Windows: winget install wkhtmltopdf JohnMacFarlane.Pandoc
+#   Linux:   sudo apt install wkhtmltopdf pandoc
+#   macOS:   brew install wkhtmltopdf pandoc
+
+# === Optional: MCP Server for Opencode CLI ===
+# fastmcp>=0.1
